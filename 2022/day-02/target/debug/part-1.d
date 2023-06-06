@@ -1,1 +1,1 @@
-/home/albertofp/Desktop/Exercises/advent-of-code/2022/day-01/target/debug/part-1: /home/albertofp/Desktop/Exercises/advent-of-code/2022/day-01/src/bin/part-1.rs /home/albertofp/Desktop/Exercises/advent-of-code/2022/day-01/src/lib.rs
+/home/albertofp/Desktop/Exercises/advent-of-code/2022/day-02/target/debug/part-1: /home/albertofp/Desktop/Exercises/advent-of-code/2022/day-02/src/bin/part-1.rs /home/albertofp/Desktop/Exercises/advent-of-code/2022/day-02/src/lib.rs
